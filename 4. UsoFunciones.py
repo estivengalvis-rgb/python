@@ -1,0 +1,12 @@
+import math
+a=int(input("Ingrese un número"))
+seno=math.sin(a)
+print("El seno es ",seno)
+cos=math.cos(a)
+print("El coseno es ",cos)
+tan=math.tan(a)
+print("La tangente es ", tan)
+raiz=math.sqrt(a)
+print("La raiz cuadrada es ", raiz)
+log=math.log(a)
+print("El logaritmo es "log)
