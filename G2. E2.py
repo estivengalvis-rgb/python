@@ -11,3 +11,4 @@ if a + b > c and a + c > b and b + c > a:
         print("Tipo: Escaleno.")
 else:
     print("No es un triángulo válido.")
+
